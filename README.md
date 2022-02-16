@@ -8,7 +8,7 @@ _I'm mostly good at javascript/typescript, but am keen to learn less dynamic lan
 
 [Email](mailto:christophe.maingard@epitech.eu) / [LinkedIn](https://www.linkedin.com/in/christophe-maingard-577879181/) / [GitHub](https://github.com/ChristopheMaingard/) / [NonProfessionalGithub](https://github.com/TocheVoronwe/)
 
-## 👩🏼‍💻 Working Experience
+## 🧑🏻‍💻 Working Experience
 
 **Fullstack Engineer** @ [FLITDESK](https://flitdesk.com/) _(October 2019 - Present)_ <br>
 Flitdesk is an SaaS product to manage the Flex Office and its coworking places.
@@ -41,8 +41,6 @@ Life Trophy is a social network that aims to challenge your friends and gain tro
 **Lumberjack** @ [Chantilly Castle](https://www.chateaudechantilly.fr/) _(2014 - Feb 2016)_ <br>
 Chantilly Castle is a beautiful castle in France. This job helped me to take a break from my IT studies.
 - I mostly cut trees, chop down trees, and plant trees.
-- Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
-- Assistance with information architecture and UX writing for the web app
 - **_Technologies used:_** poleaxe, chain saw, tractor.
   <br><br>
 
