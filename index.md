@@ -28,7 +28,7 @@ Ilévia is Lille's transport company. I was part of a two people frontend develo
 - **_Technologies used:_** Angular, RXJS, Express.
   <br><br>
 
-**Fullstack Engineer** @ LifeTrophy _(Oct 2019 - Sep 2020)_ for [Davidson](https://davidson.fr) <br>
+**Fullstack Engineer** @ LifeTrophy _(March 2016 - October 2018)_ for [Davidson](https://davidson.fr) <br>
 Life Trophy is a social network that aims to challenge your friends and gain trophies. This experience was my first developer experience.
 - I have been in charge of the development of a hybrid application and its backend.
 - I first started working with a team of 3 persons and ended up beeing the only member of the development team.
@@ -39,7 +39,7 @@ Life Trophy is a social network that aims to challenge your friends and gain tro
 ## 🪓 Non Developer Experiences
 
 **Lumberjack** @ [Chantilly Castle](https://www.chateaudechantilly.fr/) _(2014 - Feb 2016)_ <br>
-Chantilly Castle is a beautiful castle in France. This job helped me to take a break from my IT studies.
+This job helped me to take a break from my IT studies.
 - I mostly cut trees, chop down trees, and plant trees.
 - **_Technologies used:_** poleaxe, chain saw, tractor.
   <br><br>
