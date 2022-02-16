@@ -40,7 +40,7 @@ Life Trophy is a social network that aims to challenge your friends and gain tro
 
 **Lumberjack** @ [Chantilly Castle](https://www.chateaudechantilly.fr/) _(2014 - Feb 2016)_ <br>
 This job helped me to take a break from my IT studies.
-- I mostly cut trees, chop down trees, and plant trees.
+- I've mostly cut, chopped down, and planted trees.
 - **_Technologies used:_** poleaxe, chain saw, tractor. 😆
   <br><br>
 
