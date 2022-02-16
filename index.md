@@ -10,7 +10,7 @@ _I'm mostly good at javascript/typescript, but am keen to learn less dynamic lan
 
 ## 🧑🏻‍💻 Working Experience
 
-**Fullstack Engineer** @ [FLITDESK](https://flitdesk.com/) _(October 2019 - Present)_ <br>
+**Fullstack Engineer** @ [Flitdesk](https://flitdesk.com/) _(October 2019 - Present)_ <br>
 Flitdesk is an SaaS product to manage the Flex Office and its coworking places.
 - I was part of the Fullstack Team, composed by myself and I. I was often a "joining point" between the backend and frontend team.
 - As I contributed to develop new features, new services, fix bugs and sharing my opinions with the team to take decisions about improving our app.
