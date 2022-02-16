@@ -29,7 +29,7 @@ Ilévia is Lille's transport company. I was part of a two-people frontend develo
   <br><br>
 
 **Fullstack Engineer** @ LifeTrophy _(March 2016 - October 2018)_ for [Davidson](https://davidson.fr) <br>
-Life Trophy is a social network that aims to challenge your friends and gain trophies. This experience was my first developer experience.
+Life Trophy is a social network that aims to challenge your friends and gain trophies. This was my first developer experience.
 - I have been in charge of the development of a hybrid application and its backend.
 - I first started working with a team of 3 people and ended up being the only member of the development team.
 - Life Trophy has been my first experience as a Fullstack Engineer.
