@@ -1,6 +1,3 @@
-layout: page
-title: "Christophe Maingard"
-
 # Christophe Maingard
 
 _I began my career as a lumberjack but quickly changed to become a Fullstack - backend oriented - developper. I've been working on all the development aspects of a project: infrastructure design, CI-CD, backend, frontend... I'm always happy to learn._
