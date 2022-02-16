@@ -1,6 +1,6 @@
 # Christophe Maingard
 
-_I began my carreer as a lumberjack but quickly change to became a Fullstack - backend oriented - developper. I've been working on all the development aspects of a project: infrastructure design, CI-CD, backend, frontend... I'm always happy to learn._
+_I began my career as a lumberjack but quickly changed to become a Fullstack - backend oriented - developper. I've been working on all the development aspects of a project: infrastructure design, CI-CD, backend, frontend... I'm always happy to learn._
 
 _I am looking for new opportunities as a remote Full Stack engineer, mainly in a start-up. I would like to work on a rigorous code base, preferably on a high availability service._
 
@@ -12,29 +12,29 @@ _I'm mostly good at javascript/typescript, but am keen to learn less dynamic lan
 
 **Fullstack Engineer** @ [FLITDESK](https://flitdesk.com/) _(October 2019 - Present)_ <br>
 Flitdesk is an SaaS product to manage the Flex Office and its coworking places.
-- I was part of the Fullstack Team, composed by myself and I. I often has been a "joining point" between the backend and frontend team.
+- I was part of the Fullstack Team, composed by myself and I. I was often a "joining point" between the backend and frontend team.
   - As I contributed to develop new features, new services, fix bugs and sharing my opinions with the team to take decisions about improving our app.
-  - I helped migrating from legacy code to a more modern and suitable framework and distributed architecture to fits our current customers needs, using better practices and clean code.
-  - I helped migrating our codebase from Heroku to Google Cloud Platform, which has been an occasion to build a new infrastructure.
+  - I helped to migrate from legacy code to a more modern and suitable framework and distributed architecture to fits our current customers needs, using better practices and clean code.
+  - I helped to migrate our codebase from Heroku to Google Cloud Platform, which has been an occasion to build a new infrastructure.
   - Facing performances issues, I designed an infrastructure and a codebase to greatly reduce the impact on our legacy API.
   - In two years, we managed to reduce our APIs response time by 75%, at least.
   - We switched our management from SCRUM to a custom Shape Up in early 2021.
   - **_Technologies used:_** Node.js, NestJS, Next.js, Loopback, GraphQL, Javascript, Typescript, Angular, Ionic, Stripe API, Google API, Outlook API, GCP, MongoDB, Terraform.<br><br>
 
-**Frontend Developper** @ [Ilevia](https://ilevia.fr/) _(October 2018 - July 2019)_ for [Davidson](https://davidson.fr) <br>
-Transpole is Lille's transport company. I was part of a two people frontend development team.
-- I have developed frontend interfaces for transpole's internal information system.
+**Frontend Developer** @ [Ilévia](https://ilevia.fr/) _(October 2018 - July 2019)_ for [Davidson](https://davidson.fr) <br>
+Ilévia is Lille's transport company. I was part of a two people frontend development team.
+- I have developed frontend interfaces for Ilévia's internal information system.
   - I have used the redux design pattern to make interactive applications.
 - **_Technologies used:_** Angular, RXJS, Express.
   <br><br>
 
-**Software Engineer** @ LifeTrophy _(Oct 2019 - Sep 2020)_ for [Davidson](https://davidson.fr) <br>
+**Fullstack Engineer** @ LifeTrophy _(Oct 2019 - Sep 2020)_ for [Davidson](https://davidson.fr) <br>
 Life Trophy is a social network that aims to challenge your friends and gain trophies. This experience was my first developer experience.
-- I have been in charge of the development of an hybrid application and its backend.
+- I have been in charge of the development of a hybrid application and its backend.
   - I first started working with a team of 3 persons and ended up beeing the only member of the development team.
   - Life Trophy has been my first experience as a Fullstack Engineer.
 - **_Technologies used:_** Angular, Ionic, SpringBoot, Java, Typescript, Travis-ci, PostgresSQL.
-<br><br>
+  <br><br>
 
 ## 🪓 Non Developer Experiences
 
@@ -44,7 +44,7 @@ Chantilly Castle is a beautiful castle in France. This job helped me to take a b
 - Wrote [developer experience documentation](https://www.contentful.com/developers/docs/)
 - Assistance with information architecture and UX writing for the web app
 - **_Technologies used:_** poleaxe, chain saw, tractor.
-<br><br>
+  <br><br>
 
 ## 🎓 Education
 - **Master in IT methods applied to business management** _(September 2017 - July 2019)_
@@ -53,7 +53,7 @@ Chantilly Castle is a beautiful castle in France. This job helped me to take a b
   <br>CNAM, Amiens<br>
 - **Two completed years, EPITECH** _(October 2011, October 2013)_
   <br>EPITECH, Paris<br>
-<br><br>
+  <br><br>
 
 ## 💬 Languages
 
@@ -66,10 +66,10 @@ Chantilly Castle is a beautiful castle in France. This job helped me to take a b
 - Trekking
 - Read dystopian books - Ask me about titles!
 - Repair motorcycles
-<br><br>
+  <br><br>
 
 ## 🦆 Interests
 - I **LOVE** ducks
 - Motorcycle addict
 - Nature enthusiast
-<br><br>
+  <br><br>
