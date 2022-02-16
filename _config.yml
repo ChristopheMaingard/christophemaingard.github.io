@@ -36,7 +36,7 @@ content:
       - layout: left
         title: FLITDESK
         link: https://www.flitdesk.com
-        sub_title: Backend Engineer
+        sub_title: Fullstack Engineer
         caption: October 2019 - Now
         quote: >
          Flitdesk is an SaaS product to manage the Flex Office and its coworking places.
@@ -78,7 +78,7 @@ content:
           I did this work as a break from my studies
         description: | # this will include new lines to allow paragraphs
           - I mostly cut trees, chop down trees, and plant trees.
-          - Some technologies I used were: poleaxe, chain saw, tractor.
+          - Some technologies I used were: .
 
   # Education Section
   - title: Education
@@ -86,7 +86,7 @@ content:
     content:
       - layout: top-middle
         title: Master in IT methods applied to business management
-        caption: September 2017 - Jully 2019
+        caption: September 2017 - July 2019
         sub_title: Miage, Lille
 
       - layout: top-middle
