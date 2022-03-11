@@ -71,3 +71,6 @@ This job helped me to take a break from my IT studies.
 - Motorcycle addict
 - Nature enthusiast
   <br><br>
+
+
+_oh non, je ne lis pas l'anglais!... [et voici!](/resume-fr_FR)_
