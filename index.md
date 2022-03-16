@@ -38,7 +38,7 @@ Life Trophy is a social network that aims to challenge your friends and gain tro
 
 ## 🪓 Non Developer Experiences
 
-**Lumberjack** @ [Chantilly Castle](https://www.chateaudechantilly.fr/) _(2014 - Feb 2016)_ <br>
+**Lumberjack** @ [Chantilly Castle](https://www.chateaudechantilly.fr/) _(2014 - February 2016)_ <br>
 This job helped me to take a break from my IT studies.
 - I've mostly cut, chopped down, and planted trees.
 - **_Technologies used:_** poleaxe, chain saw, tractor. 😆
@@ -73,4 +73,4 @@ This job helped me to take a break from my IT studies.
   <br><br>
 
 
-_oh non, je ne lis pas l'anglais!... [et voici!](/resume-fr_FR)_
+_oh non, je ne lis pas l'Anglais!... [et voici!](/resume-fr_FR)_

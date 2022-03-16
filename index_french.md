@@ -80,4 +80,4 @@ Ce travail m'a permis de faire une pause dans mes études d'informatique.
   <br><br>
 
 
-_oh no, I can't read french... [here you go!](/)_
+_oh no, I can't read French... [here you go!](/)_
