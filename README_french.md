@@ -69,7 +69,7 @@ Ce travail m'a permis de faire une pause dans mes études d'informatique.
 **Anglais**: B2 (TOEIC: 960 points)
 <br><br>
 
-## 🧗🏻 Activitées
+## 🧗🏻 Activités
 - Escalade
 - Randonnée
 - Livres dystopiques - Demandez-moi des titres!
