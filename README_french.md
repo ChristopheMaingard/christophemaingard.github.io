@@ -1,6 +1,6 @@
 # Christophe Maingard
 
-_J'ai commencé ma carrière en tant que bûcheron mais ai rapidement repris mes études afin de devenir développeur Fullstack - orienté backend. J'ai travaillé sur tous les aspects d'un projet IT: design d'infrastructure, CI-CD, backend, frontend. Je suis toujours heureux d'apprendre!_
+_J'ai commencé ma carrière en tant que bûcheron, mais ai rapidement repris mes études afin de devenir développeur Fullstack - orienté backend. J'ai travaillé sur tous les aspects d'un projet IT: design d'infrastructure, CI-CD, backend, frontend. Je suis toujours heureux d'apprendre!_
 
 _Je cherche de nouvelles opportunités en tant que développeur fullstack, de préférence en start-up. J'aimerais travailler avec une base de code rigoureuse, sur un service à haute disponibilité._
 
@@ -10,7 +10,16 @@ _Je suis productif avec javascript/typescript, mais souhaite apprendre des langa
 
 ## 🧑🏻‍💻 Expériences de Travail
 
-**Ingénieur Fullstack** @ [Flitdesk](https://flitdesk.com/) _(Octobre 2019 - Présent)_ <br>
+**Fullstack Engineer** @ [Lucine](https://lucine.fr) _(Mars 2021 - Présent)_ <br>
+Lucine est une entreprise de médicaments numériques qui a pour objectif de soulager les douleurs chroniques féminines grâce à la Réalité Virtuelle et aux applications mobile.
+- J'ai été intégré dans l'équipe de développement fullstack, composé d'une Lead Developer et de moi.
+- L'équipe Fullstack y avait pour objectif de développer les solutions non liées à la Réalité Virtuelle, au sein du pôle Studio.
+- J'ai principalement travaillé sur une application backend écrit en Go, et son front associé écrit en VueJs
+- J'y ai découvert le monde des entreprises médicales, et sa rigueur quant aux choix des technologies et la façon de développer des applications.
+- Nous avons migré certaines parties intéressantes d'une API écrite en C# vers Go, afin d'en simplifier la maintenance.
+- **_Technologies utilisées:_** Node.js, VueJs, Mocha, Golang, Gitlab, Gitlab-CI.<br><br>
+
+**Ingénieur Fullstack** @ [Flitdesk](https://flitdesk.com/) _(Octobre 2019 - March 2021)_ <br>
 Flitdesk est un produit SaaS pour gérer le Flex office et des espaces de coworking.
 - J'ai fait partie de l'équipe Fullstack, composé de moi même, moi, et moi. J'ai souvent été le point de jonction entre les équipes back et front.
 - J'ai contribué au développement de nouvelles fonctionnalités, de nouveaux services, et ai participé aux décisions concernant l'avenir du produit.

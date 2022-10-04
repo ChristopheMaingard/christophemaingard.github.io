@@ -10,7 +10,16 @@ _I'm mostly good at javascript/typescript, but am keen on learning less dynamic 
 
 ## 🧑🏻‍💻 Working Experience
 
-**Fullstack Engineer** @ [Flitdesk](https://flitdesk.com/) _(October 2019 - Present)_ <br>
+**Fullstack Engineer** @ [Lucine](https://lucine.fr) _(March 2021 - Present)_ <br>
+Lucine is a digital therapeutics company that aims to relieve women's chronic pain through Virtual Reality and mobile applications.
+- I was part of a two people fullstack development team, composed by a Lead Dev and me.
+- The Fullstack team aimed to develop solutions not related to Virtual Reality, within the Studio division.
+- I mostly worked on a backend written with Go, and a frontend developed with VueJs framework.
+- I discovered the world of medical companies, and its rigor in the choice of technologies and the way of developing applications.
+- We have migrated some interesting parts of an old API written with C# to Go in order to simplify its maintainability. 
+- **_Technologies used:_** Node.js, VueJs, Mocha, Golang, Gitlab, Gitlab-CI.<br><br>
+
+**Fullstack Engineer** @ [Flitdesk](https://flitdesk.com/) _(October 2019 - March 2021)_ <br>
 Flitdesk is an SaaS product to manage the Flex Office and its coworking places.
 - I was part of the Fullstack Team, composed by me, myself, and I. I was often a "joining point" between the backend and frontend team.
 - I contributed to develop new features, new services, fix bugs and share my opinions with the team to take decisions about improving our app.
