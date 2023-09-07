@@ -10,7 +10,23 @@ _I'm mostly good at javascript/typescript, but am keen on learning less dynamic 
 
 ## 🧑🏻‍💻 Working Experience
 
-**Fullstack Engineer** @ [Lucine](https://lucine.fr) _(March 2021 - Present)_ <br>
+**Fullstack Engineer / Lead Developer** @ [Greenly](https://greenly.earth/) _(November 2022 - Present)_ <br>
+Greenly is a company that helps businesses to reduce their carbon footprint.
+- I was first part of the "free electron" team, that would work on any project that would help the company. Mostly performance issues.
+- I took care of the rewriting of our main website that had a lot of performance issues. This included:
+  - setting up working methods for a team of Freelances and two greenly developers.
+  - increasing our SEO (Lighthouse score, for example).
+  - quicly understand how NestJS works to give the best advices to the teams.
+- I helped to migrate some heavy computing jobs to a queue system, to reduce the load on our main API.
+  - Performances have been greatly improved, and the API is now more stable.
+  - BullMQ and redis were used for that purpose.
+- I've been promoted to the role of Lead Developer, in a 4 people team.
+  - We're handling the migration of a heavy business-core legacy entity and computation systems to a new one. Once again the goal is to reduce the load on our main API by using better our postgreSQL database.
+  - I'm mostly there to help the team understanding the business logic, give them advices on how to design the new system, and help them before or when they're stuck. I focus on being available and reliable for them.
+  - We were able to gain a lot of productivity by reorganizing our meetings, giving us way more time to focus on our tasks.
+- **_Technologies used:_** Node.js, BullMQ, Jest, NestJS, PostgreSQL, Github, Github-actions.<br><br>
+
+**Fullstack Engineer** @ [Lucine](https://lucine.fr) _(March 2021 - November 2022)_ <br>
 Lucine is a digital therapeutics company that aims to relieve women's chronic pain through Virtual Reality and mobile applications.
 - I was part of a two people fullstack development team, composed by a Lead Dev and me.
 - The Fullstack team aimed to develop solutions not related to Virtual Reality, within the Studio division.
