@@ -26,7 +26,7 @@ Greenly is a company that helps businesses to reduce their carbon footprint.
   - We were able to gain a lot of productivity by reorganizing our meetings, giving us way more time to focus on our tasks.
 - **_Technologies used:_** Node.js, BullMQ, Jest, NestJS, PostgreSQL, Github, Github-actions.<br><br>
 
-**Fullstack Engineer** @ [Lucine](https://lucine.fr) _(March 2021 - November 2022)_ <br>
+**Fullstack Engineer** @ [Lucine](https://lucine.fr) _(March 2022 - November 2022)_ <br>
 Lucine is a digital therapeutics company that aims to relieve women's chronic pain through Virtual Reality and mobile applications.
 - I was part of a two people fullstack development team, composed by a Lead Dev and me.
 - The Fullstack team aimed to develop solutions not related to Virtual Reality, within the Studio division.
@@ -35,7 +35,7 @@ Lucine is a digital therapeutics company that aims to relieve women's chronic pa
 - We have migrated some interesting parts of an old API written with C# to Go in order to simplify its maintainability. 
 - **_Technologies used:_** Node.js, VueJs, Mocha, Golang, Gitlab, Gitlab-CI.<br><br>
 
-**Fullstack Engineer** @ [Flitdesk](https://flitdesk.com/) _(October 2019 - March 2021)_ <br>
+**Fullstack Engineer** @ [Flitdesk](https://flitdesk.com/) _(October 2019 - March 2022)_ <br>
 Flitdesk is an SaaS product to manage the Flex Office and its coworking places.
 - I was part of the Fullstack Team, composed by me, myself, and I. I was often a "joining point" between the backend and frontend team.
 - I contributed to develop new features, new services, fix bugs and share my opinions with the team to take decisions about improving our app.
