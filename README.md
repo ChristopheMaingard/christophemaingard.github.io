@@ -24,7 +24,17 @@ Greenly is a company that helps businesses to reduce their carbon footprint.
   - We're handling the migration of a heavy business-core legacy entity and computation systems to a new one. Once again the goal is to reduce the load on our main API by using better our postgreSQL database.
   - I'm mostly there to help the team understanding the business logic, give them advices on how to design the new system, and help them before or when they're stuck. I focus on being available and reliable for them.
   - We were able to gain a lot of productivity by reorganizing our meetings, giving us way more time to focus on our tasks.
-- **_Technologies used:_** Node.js, BullMQ, Jest, NestJS, PostgreSQL, Github, Github-actions.<br><br>
+- I've single-handedly migrated our infrastructure from heroku to GCP
+  - Using terraform to set up our infrastructure
+  - Using helm/kubernetes for our frontend
+  - Using cloud run for our frontend
+  - Using both github-actions and Cloud Build for our CI/CD
+  - Making my best so that our developers have a (partial) heroku-like experience
+- I have configured our datadog integration on most of our tools to enhance the developers experience
+- Most of my free-working time is spent
+  - exploring ways to improve our architecture, either using the codebase, infrastructure, or inter-services communications
+  - solving bugs for other teams
+- **_Technologies used:_** Node.js, BullMQ, Jest, NestJS, PostgreSQL, Github, Github-actions, GCP, Kubernetes, Cloud Run, Cloud Build, Datadog.<br><br>
 
 **Fullstack Engineer** @ [Lucine](https://lucine.fr) _(March 2022 - November 2022)_ <br>
 Lucine is a digital therapeutics company that aims to relieve women's chronic pain through Virtual Reality and mobile applications.
