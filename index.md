@@ -10,13 +10,24 @@ _I'm mostly good at javascript/typescript, but am keen on learning less dynamic 
 
 ## 🧑🏻‍💻 Working Experience
 
-**Fullstack Engineer / Lead Developer** @ [Greenly](https://greenly.earth/) _(November 2022 - Present)_ <br>
+**Founder** @ [Zerodata](https://zerodata.fr) → Helios Security _(August 2025 - September 2026)_
+Founded and built B2B security products around sensitive data and AI agents, from MVP to enterprise POC.
+- **Zerodata**: PII tokenization proxy + API letting companies use sensitive data without it touching their infrastructure.
+  - Built the MVP solo in Go (hexagonal architecture, envelope encryption, BYOK-ready), with per-tenant subdomains.
+  - Automated deployments on Scaleway and shipped a landing page with an interactive tokenization demo.
+  - Built a prospecting pipeline (n8n, PostgreSQL, FullEnrich) and ran customer discovery with HR/payroll companies; stopped the product after concluding the market wasn't venture-scale.
+- **Helios Security**: LLM/MCP gateway for AI agent governance in regulated industries.
+  - Deploying an open-source LLM/MCP gateway (agentgateway) on Scaleway as a POC for an enterprise buyer: HTTPS routing behind load balancers, file uploads to LLMs, debugging upstream routing issues.
+  - Ran discovery interviews with CISOs and DPOs to scope compliance requirements (DORA, NIS2, AI Act).
+- **_Technologies used_**: Golang, PostgreSQL, Astro, Scaleway, n8n, agentgateway. <br><br>
+
+**Fullstack Engineer / Lead Developer** @ [Greenly](https://greenly.earth/) _(November 2022 - July 2025)_ <br>
 Greenly is a company that helps businesses to reduce their carbon footprint.
 - I was first part of the "free electron" team, that would work on any project that would help the company. Mostly performance issues.
 - I took care of the rewriting of our main website that had a lot of performance issues. This included:
   - setting up working methods for a team of Freelances and two greenly developers.
   - increasing our SEO (Lighthouse score, for example).
-  - quicly understand how NestJS works to give the best advices to the teams.
+  - quickly understand how NestJS works to give the best advices to the teams.
 - I helped to migrate some heavy computing jobs to a queue system, to reduce the load on our main API.
   - Performances have been greatly improved, and the API is now more stable.
   - BullMQ and redis were used for that purpose.
@@ -42,7 +53,7 @@ Lucine is a digital therapeutics company that aims to relieve women's chronic pa
 - The Fullstack team aimed to develop solutions not related to Virtual Reality, within the Studio division.
 - I mostly worked on a backend written with Go, and a frontend developed with VueJs framework.
 - I discovered the world of medical companies, and its rigor in the choice of technologies and the way of developing applications.
-- We have migrated some interesting parts of an old API written with C# to Go in order to simplify its maintainability. 
+- We have migrated some interesting parts of an old API written with C# to Go in order to simplify its maintainability.
 - **_Technologies used:_** Node.js, VueJs, Mocha, Golang, Gitlab, Gitlab-CI.<br><br>
 
 **Fullstack Engineer** @ [Flitdesk](https://flitdesk.com/) _(October 2019 - March 2022)_ <br>
